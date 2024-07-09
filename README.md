@@ -5,4 +5,4 @@ Hello! I'm Herman Sahota, an Electrical Engineering Technologist from Humber Col
 ### Contact Me
 
 - **Email**: [sahota.eng@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/herman-sahota/)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/herman-sahota/)
