@@ -9,7 +9,9 @@ Hello! I'm Herman Sahota, an Electrical Engineering Technologist from Humber Col
 
 ### Interests
 
-I enjoy competitive coding 🏃‍♂️, circuit design ⚡, and playing tennis 🎾.
+- **Competitive Coding 🏃‍♂️**
+- **Circuit Design ⚡**
+- **Playing Tennis 🎾**
 
 ### Contact Me
 
